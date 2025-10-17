@@ -1,9 +1,7 @@
-# [Group name]
+# JRR
 
 **Group members:**
-- A
-- B
-- C
+- Joakim
 
 **This repository contains:***
 
